@@ -10,8 +10,8 @@ commit_freq = 10 # num of commits per day
 variablity = False
 
 # change to your repo
-# repo_link = "git@github.com:aliifam/github-activity-generator.git" # ssh
-repo_link = "https://www.github.com/aliifam/github-activity-generator.git" # http
+# repo_link = "git@github.com:hr07exploiter/okayreport.git" # ssh
+repo_link = "https://www.github.com/hr07exploiter/okayreport.git" # http
 
 tl = total_day #time day
 ctr = 1
